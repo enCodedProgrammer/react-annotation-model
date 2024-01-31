@@ -1,0 +1,26 @@
+{
+  "name": "react-annotation-model",
+  "version": "1.0.0",
+  "description": "annotates image",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enCodedProgrammer/react-annotation-model.git"
+  },
+  "keywords": [
+    "annotation"
+  ],
+  "author": "Israel Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enCodedProgrammer/react-annotation-model/issues"
+  },
+  "homepage": "https://github.com/enCodedProgrammer/react-annotation-model#readme",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "sharp": "^0.33.2"
+  }
+}
